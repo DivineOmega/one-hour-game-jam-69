@@ -1,0 +1,2013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x188d780" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7</generator>
+  <activeNode nodeId="node-0x188d780"/>
+  <item nodeId="node-0x188d780">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">Glulxe fatal error: The game file could not be opened. (/home/jordan/Desktop/onehourgamejam69.inform/Build/output.ulx)
+
+[ The game has finished ]
+</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x188d900"/>
+      <child nodeId="node-0x1e80db0"/>
+      <child nodeId="node-0x1eaa120"/>
+      <child nodeId="node-0x1eaa720"/>
+      <child nodeId="node-0x1eaa8a0"/>
+      <child nodeId="node-0x1eaaa20"/>
+      <child nodeId="node-0x1eaaea0"/>
+      <child nodeId="node-0x1ee8110"/>
+      <child nodeId="node-0x1ee8710"/>
+      <child nodeId="node-0x1ee8b90"/>
+      <child nodeId="node-0x1f112e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x188d900">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Study
+The study is profoundly clean. I&apos;m very proud of how well kept this room is. The hallway is to the west.
+
+You can see a glass desk (on which are a tiny wooden box (closed) and a monitor) and a computer key here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x188da80"/>
+      <child nodeId="node-0x1e80330"/>
+      <child nodeId="node-0x1e80930"/>
+    </children>
+  </item>
+  <item nodeId="node-0x188da80">
+    <command xml:space="preserve">look at desk</command>
+    <result xml:space="preserve">This glass desk is completely transparent, and like the room overall, completely free of dust.
+
+On the glass desk is a monitor.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x188dc00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x188dc00">
+    <command xml:space="preserve">look under desk</command>
+    <result xml:space="preserve">You find nothing of interest.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x188dd80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x188dd80">
+    <command xml:space="preserve">look at computer</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x188df00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x188df00">
+    <command xml:space="preserve">go below desk</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e801b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e801b0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Study
+The study is profoundly clean. You&apos;re very proud of how well kept this room is.
+
+You can see a glass desk (on which is a monitor) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e80330">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+hallway
+This hallway really needs rennovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e804b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e804b0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e80630"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e80630">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e807b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e807b0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+study
+The study is profoundly clean. I&apos;m very proud of how well kept this room is.
+
+You can see a glass desk (on which is a monitor) and a computer here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e80930">
+    <command xml:space="preserve">look north</command>
+    <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e80ab0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e80ab0">
+    <command xml:space="preserve">look west</command>
+    <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e80c30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e80c30">
+    <command xml:space="preserve">look east</command>
+    <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1e80db0">
+    <command xml:space="preserve">look at dek</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1e80f30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1e80f30">
+    <command xml:space="preserve">look at desk</command>
+    <result xml:space="preserve">This glass desk is completely transparent, and like the room overall, completely free to dust.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1eaa120">
+    <command xml:space="preserve">look at glass desk</command>
+    <result xml:space="preserve">This glass desk is completely transparent, and like the room overall, completely free of dust.
+
+On the glass desk is a monitor.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1eaa2a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1eaa2a0">
+    <command xml:space="preserve">look at monitor</command>
+    <result xml:space="preserve">A shiny Dell computer monitor. 24 inches of pure awesome. Great for my work and when I just want to chill with some games.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1eaa420"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1eaa420">
+    <command xml:space="preserve">examine</command>
+    <result xml:space="preserve">(the glass desk)
+This glass desk is completely transparent, and like the room overall, completely free of dust.
+
+On the glass desk is a monitor.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1eaa5a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1eaa5a0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Study
+The study is profoundly clean. You&apos;re very proud of how well kept this room is.
+
+You can see a glass desk (on which is a monitor) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1eaa720">
+    <command xml:space="preserve">look at desk</command>
+    <result xml:space="preserve">This glass desk is completely transparent, and like the room overall, completely free of dust.
+
+On the glass desk is a monitor.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1eaa8a0">
+    <command xml:space="preserve">take computer</command>
+    <result xml:space="preserve">The computer is kinda too heavy to lift about.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1eaaa20">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Upper Hallway
+This hallway really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+Exits: east to the Study and down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1eaaba0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1eaaba0">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Lower Hallway
+Same deal with the hallways downstairs. It works, but it&apos;s in desperate need of some redecorating.
+
+Exits: up to the Upper Hallway.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1eaad20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1eaad20">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Upper Hallway
+This hallway really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+Exits: east to the Study and down to the Lower Hallway.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1eaaea0">
+    <command xml:space="preserve">take desk</command>
+    <result xml:space="preserve">That&apos;s fixed in place.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1ee8110">
+    <command xml:space="preserve">look at box</command>
+    <result xml:space="preserve">I really don&apos;t recognise this being here. What the hell? It&apos;s a wooden box with a keyhole on the front.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ee8290"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ee8290">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ee8410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ee8410">
+    <command xml:space="preserve">shake box</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ee8590"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ee8590">
+    <command xml:space="preserve">hit box</command>
+    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1ee8710">
+    <command xml:space="preserve">look west</command>
+    <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ee8890"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ee8890">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Hallway
+This hallway really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+Exits: east to the Study.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ee8a10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ee8a10">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Study
+The study is profoundly clean. I&apos;m very proud of how well kept this room is.
+
+You can see a glass desk (on which are a tiny wooden box (closed) and a monitor) and a computer key here.
+
+Exits: west to the Hallway.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1ee8b90">
+    <command xml:space="preserve">look at computer</command>
+    <result xml:space="preserve">Compared to the monitor, this computer really doesn&apos;t have much power. Then again, all I use it for is writing interactive fiction and playing retro video games. The computer casing seems loose.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ee8d10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ee8d10">
+    <command xml:space="preserve">look at box</command>
+    <result xml:space="preserve">I really don&apos;t recognise this being here. What the hell? It&apos;s a wooden box with a keyhole on the front.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ee8e90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ee8e90">
+    <command xml:space="preserve">open computer</command>
+    <result xml:space="preserve">It isn&apos;t something you can open.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f11160"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f11160">
+    <command xml:space="preserve">loo at computer</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1f112e0">
+    <command xml:space="preserve">open computer</command>
+    <result xml:space="preserve">You open the computer, revealing a wooden key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f11460"/>
+      <child nodeId="node-0x1f11be0"/>
+      <child nodeId="node-0x1f79a00"/>
+      <child nodeId="node-0x1ff8160"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f11460">
+    <command xml:space="preserve">take copper key</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f115e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f115e0">
+    <command xml:space="preserve">look </command>
+    <result xml:space="preserve">Study
+The study is profoundly clean. I&apos;m very proud of how well kept this room is.
+
+You can see a glass desk (on which are a tiny wooden box (closed) and a monitor) and a computer (empty) here.
+
+Exits: west.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f11760"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f11760">
+    <command xml:space="preserve">look at box</command>
+    <result xml:space="preserve">I really don&apos;t recognise this being here. What the hell? It&apos;s a wooden box with a keyhole on the front.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f118e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f118e0">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f11a60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f11a60">
+    <command xml:space="preserve">unlock box</command>
+    <result xml:space="preserve">(with the copper key)
+That doesn&apos;t seem to fit the lock.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1f11be0">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f11d60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f11d60">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f11ee0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f11ee0">
+    <command xml:space="preserve">unlock box</command>
+    <result xml:space="preserve">(with the wooden key)
+You unlock the tiny wooden box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f50160"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f50160">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the tiny wooden box, revealing a steel key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f502e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f502e0">
+    <command xml:space="preserve">get key</command>
+    <result xml:space="preserve">(the steel key)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f50460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f50460">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Study
+The study is profoundly clean. I&apos;m very proud of how well kept this room is.
+
+You can see a glass desk (on which are a tiny wooden box (empty) and a monitor) and a computer (empty) here.
+
+Exits: west.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f505e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f505e0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Landing
+This landing really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+You can see a steel box (closed) here.
+
+Exits: east to the Study and down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f50760"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f50760">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f508e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f508e0">
+    <command xml:space="preserve">get box</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f50a60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f50a60">
+    <command xml:space="preserve">unlock box</command>
+    <result xml:space="preserve">What do you want to unlock the steel box with?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f50be0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f50be0">
+    <command xml:space="preserve">drop box</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f50d60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f50d60">
+    <command xml:space="preserve">unlock</command>
+    <result xml:space="preserve">What do you want to unlock?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f50ee0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f50ee0">
+    <command xml:space="preserve">unblock steel box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f79100"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f79100">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Landing
+This landing really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+You can see a steel box (closed) here.
+
+Exits: east to the Study and down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f79280"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f79280">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f79400"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f79400">
+    <command xml:space="preserve">unlock box</command>
+    <result xml:space="preserve">What do you want to unlock the steel box with?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f79580"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f79580">
+    <command xml:space="preserve">key</command>
+    <result xml:space="preserve">Which do you mean, the steel key or the wooden key?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f79700"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f79700">
+    <command xml:space="preserve">steel key</command>
+    <result xml:space="preserve">You unlock the steel box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f79880"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f79880">
+    <command xml:space="preserve">look at steel box</command>
+    <result xml:space="preserve">It is a steel box. Not something I tend to leave in the hallway.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1f79a00">
+    <command xml:space="preserve">get key</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f79b80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f79b80">
+    <command xml:space="preserve">unlock box</command>
+    <result xml:space="preserve">(with the wooden key)
+You unlock the tiny wooden box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f79d00"/>
+      <child nodeId="node-0x20aad90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f79d00">
+    <command xml:space="preserve">look a t box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1f79e80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1f79e80">
+    <command xml:space="preserve">look at box</command>
+    <result xml:space="preserve">I really don&apos;t recognise this being here. What the hell? It&apos;s a wooden box with a keyhole on the front.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fb61c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fb61c0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Study
+The study is profoundly clean. I&apos;m very proud of how well kept this room is.
+
+It&apos;s where I keep the few paper copies I need of things. Documents, bills, invoices and stuff. Need to get a replacement key for this sometime, I lost the original ages ago.
+
+You can also see a glass desk (on which are a tiny wooden box (closed) and a monitor) and a computer (empty) here.
+
+Exits: west.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fb6340"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fb6340">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the tiny wooden box, revealing a steel key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fb64c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fb64c0">
+    <command xml:space="preserve">get steel key</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fb6640"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fb6640">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Study
+The study is profoundly clean. I&apos;m very proud of how well kept this room is.
+
+It&apos;s where I keep the few paper copies I need of things. Documents, bills, invoices and stuff. Need to get a replacement key for this sometime, I lost the original ages ago.
+
+You can also see a glass desk (on which are a tiny wooden box (empty) and a monitor) and a computer (empty) here.
+
+Exits: west.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fb67c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fb67c0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Landing
+This landing really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+You can see a steel box (closed) here.
+
+Exits: east to the Study and down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fb6940"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fb6940">
+    <command xml:space="preserve">look at steel box</command>
+    <result xml:space="preserve">It is a steel box. Not something I tend to leave in the hallway. There seems to be a hold for a key within it.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fb6ac0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fb6ac0">
+    <command xml:space="preserve">unlock steel box</command>
+    <result xml:space="preserve">What do you want to unlock the steel box with?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fb6c40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fb6c40">
+    <command xml:space="preserve">steel key</command>
+    <result xml:space="preserve">You unlock the steel box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fb6dc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fb6dc0">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the steel box, revealing a gold key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1fb6f40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1fb6f40">
+    <command xml:space="preserve">get key</command>
+    <result xml:space="preserve">Which do you mean, the gold key, the rusty key, the steel key or the wooden key?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x20aad90">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the tiny wooden box, revealing a steel key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20aaf10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20aaf10">
+    <command xml:space="preserve">get key</command>
+    <result xml:space="preserve">(the steel key)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d80fc140"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d80fc140">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Landing
+This landing really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+You can see a steel box (closed) here.
+
+Exits: east to the Study and down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d80fc2c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d80fc2c0">
+    <command xml:space="preserve">open steel box with steel key</command>
+    <result xml:space="preserve">You unlock the steel box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d80fc440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d80fc440">
+    <command xml:space="preserve">open</command>
+    <result xml:space="preserve">What do you want to open?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d80fc5c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d80fc5c0">
+    <command xml:space="preserve">box</command>
+    <result xml:space="preserve">You open the steel box, revealing a gold key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d80fc740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d80fc740">
+    <command xml:space="preserve">get gold key</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d80fc8c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d80fc8c0">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Hallway
+Looking good. The hallway was the first room we decorated when we moved in. Nothing crazy in here thankfully.
+
+You can see a cupboard (closed) here.
+
+Exits: up to the Landing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d80fca40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d80fca40">
+    <command xml:space="preserve">open cupboard</command>
+    <result xml:space="preserve">You open the cupboard, revealing a toolbox.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d80fcbc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d80fcbc0">
+    <command xml:space="preserve">open toolbox</command>
+    <result xml:space="preserve">You open the toolbox, revealing a gold box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d80fcd40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d80fcd40">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d80fcec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d80fcec0">
+    <command xml:space="preserve">unlock</command>
+    <result xml:space="preserve">What do you want to unlock?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d81391b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d81391b0">
+    <command xml:space="preserve">gold box</command>
+    <result xml:space="preserve">What do you want to unlock the gold box with?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d8139330"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d8139330">
+    <command xml:space="preserve">gold key</command>
+    <result xml:space="preserve">You unlock the gold box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d81394b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d81394b0">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the gold box, revealing a rusty key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d8139630"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d8139630">
+    <command xml:space="preserve">get key</command>
+    <result xml:space="preserve">(the rusty key)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d81397b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d81397b0">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Landing
+This landing really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+You can see a steel box (empty) here.
+
+Exits: east to the Study and down to the Hallway.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d8139930"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d8139930">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Study
+The study is profoundly clean. I&apos;m very proud of how well kept this room is.
+
+You can see a filing cabinet (closed), a glass desk (on which are a tiny wooden box (empty) and a monitor) and a computer (empty) here.
+
+Exits: west to the Landing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d8139ab0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d8139ab0">
+    <command xml:space="preserve">open cabinet</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d8139c30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d8139c30">
+    <command xml:space="preserve">unlock</command>
+    <result xml:space="preserve">What do you want to unlock?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d8139db0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d8139db0">
+    <command xml:space="preserve">cabinet</command>
+    <result xml:space="preserve">What do you want to unlock the filing cabinet with?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d8139f30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d8139f30">
+    <command xml:space="preserve">rusty key</command>
+    <result xml:space="preserve">You unlock the filing cabinet.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d81c0160"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d81c0160">
+    <command xml:space="preserve">open cabinet</command>
+    <result xml:space="preserve">You open the filing cabinet, revealing a device.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d81c02e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d81c02e0">
+    <command xml:space="preserve">look at device</command>
+    <result xml:space="preserve">It&apos;s a strange black device in my filing cabinets where all my documents should be. There is *one button* on it.
+
+The device is currently switched off.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d81c0460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d81c0460">
+    <command xml:space="preserve">press button</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7fa9d81c05e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7fa9d81c05e0">
+    <command xml:space="preserve">turn on device</command>
+    <result xml:space="preserve">
+
+    *** Everything fades to black. I feel I have won. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1ff8160">
+    <command xml:space="preserve">get keyt</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ff82e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ff82e0">
+    <command xml:space="preserve">get key</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ff8460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ff8460">
+    <command xml:space="preserve">open wooden box with wooden key</command>
+    <result xml:space="preserve">You unlock the tiny wooden box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ff85e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ff85e0">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the tiny wooden box, revealing a steel key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ff8760"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ff8760">
+    <command xml:space="preserve">get steel key</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ff88e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ff88e0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Study
+The study is profoundly clean. I&apos;m very proud of how well kept this room is.
+
+You can see a filing cabinet (closed), a glass desk (on which are a tiny wooden box (empty) and a monitor) and a computer (empty) here.
+
+Exits: west.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ff8a60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ff8a60">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Landing
+This landing really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+You can see a steel box (closed) here.
+
+Exits: east to the Study and down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ff8be0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ff8be0">
+    <command xml:space="preserve">unlock steel box with steel key</command>
+    <result xml:space="preserve">You unlock the steel box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ff8d60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ff8d60">
+    <command xml:space="preserve">open steel box</command>
+    <result xml:space="preserve">You open the steel box, revealing a gold key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1ff8ee0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1ff8ee0">
+    <command xml:space="preserve">get gold key</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2044170"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2044170">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Landing
+This landing really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+You can see a steel box (empty) here.
+
+Exits: east to the Study and down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20442f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20442f0">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">
+Hallway
+Looking good. The hallway was the first room we decorated when we moved in. Nothing crazy in here thankfully.
+
+You can see a cupboard (closed) here.
+
+Exits: up to the Landing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2044470"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2044470">
+    <command xml:space="preserve">open cupboard</command>
+    <result xml:space="preserve">You open the cupboard, revealing a toolbox.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20445f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20445f0">
+    <command xml:space="preserve">look at toolbox</command>
+    <result xml:space="preserve">My regular toolbox I&apos;ve been using for all this tiring DIY work.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2044770"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2044770">
+    <command xml:space="preserve">open toolbox</command>
+    <result xml:space="preserve">You open the toolbox, revealing a gold box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20448f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20448f0">
+    <command xml:space="preserve">unlock gold box</command>
+    <result xml:space="preserve">What do you want to unlock the gold box with?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2044a70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2044a70">
+    <command xml:space="preserve">gold key</command>
+    <result xml:space="preserve">You unlock the gold box.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2044bf0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2044bf0">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the gold box, revealing a rusty key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2044d70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2044d70">
+    <command xml:space="preserve">look at gold box</command>
+    <result xml:space="preserve">Wow, well that&apos;s shiny and definitely wasn&apos;t there before. It&apos;s another box with a keyhole.
+
+In the gold box is a rusty key.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x2044ef0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x2044ef0">
+    <command xml:space="preserve">get rusty key</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x206d190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x206d190">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Landing
+This landing really needs renovating. I mean, it&apos;s in good condition, but damn, it is outdated.
+
+You can see a steel box (empty) here.
+
+Exits: east to the Study and down to the Hallway.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x206d310"/>
+    </children>
+  </item>
+  <item nodeId="node-0x206d310">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Study
+The study is profoundly clean. I&apos;m very proud of how well kept this room is.
+
+You can see a filing cabinet (closed), a glass desk (on which are a tiny wooden box (empty) and a monitor) and a computer (empty) here.
+
+Exits: west to the Landing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x206d490"/>
+    </children>
+  </item>
+  <item nodeId="node-0x206d490">
+    <command xml:space="preserve">open filing cabinet</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x206d610"/>
+    </children>
+  </item>
+  <item nodeId="node-0x206d610">
+    <command xml:space="preserve">unlock it</command>
+    <result xml:space="preserve">What do you want to unlock the filing cabinet with?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x206d790"/>
+    </children>
+  </item>
+  <item nodeId="node-0x206d790">
+    <command xml:space="preserve">rusty key</command>
+    <result xml:space="preserve">You unlock the filing cabinet.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x206d910"/>
+    </children>
+  </item>
+  <item nodeId="node-0x206d910">
+    <command xml:space="preserve">open</command>
+    <result xml:space="preserve">What do you want to open?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x206da90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x206da90">
+    <command xml:space="preserve">cabinet</command>
+    <result xml:space="preserve">You open the filing cabinet, revealing a device.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x206dc10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x206dc10">
+    <command xml:space="preserve">look at device</command>
+    <result xml:space="preserve">The device is currently switched off.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x206dd90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x206dd90">
+    <command xml:space="preserve">press button</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x206df10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x206df10">
+    <command xml:space="preserve">press device</command>
+    <result xml:space="preserve">Nothing obvious happens.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20aa190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20aa190">
+    <command xml:space="preserve">turn on device</command>
+    <result xml:space="preserve">
+
+    *** Everything fades to black. I feel I have won. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x20aa310"/>
+    </children>
+  </item>
+  <item nodeId="node-0x20aa310">
+    <command xml:space="preserve">press button</command>
+    <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
